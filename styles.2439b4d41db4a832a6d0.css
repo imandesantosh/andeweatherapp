@@ -1,0 +1,1 @@
+:root{--padd:140px;--padd100:100px;--padd25:25px;--medium-font:16px;--mt100:100px;--padd70:70px}@media only screen and (max-width:1200px){:root{--padd:5vw}}@media only screen and (max-width:959px){:root{--padd100:5vw;--padd70:5vw}}@media (max-width:500px){:root{--padd25:15px}}
